@@ -46,34 +46,6 @@ node index.js
 
 ![Código](image-1.png)
 
-## 📊 Diagrama do Projeto
-
-+-----------------------------+
-|  Calculadora de Partidas    |
-|  Rankeadas                  |
-+-----------------------------+
-            |
-            v
-+-----------------------------+
-| Função calcularPartidas     |
-| - Recebe vitórias e derrotas|
-| - Calcula saldo de vitórias |
-| - Determina nível           |
-+-----------------------------+
-            |
-            v
-+-----------------------------+
-| Laço de Repetição           |
-| - Itera sobre partidas      |
-| - Chama calcularPartidas    |
-+-----------------------------+
-            |
-            v
-+-----------------------------+
-| Saída                       |
-| - Exibe saldo e nível       |
-+-----------------------------+
-
 📊 Fluxograma do Projeto
 
 ![fluxograma](image-2.png)
