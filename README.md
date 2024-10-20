@@ -46,6 +46,6 @@ node index.js
 
 ![Código](image-1.png)
 
-📊 Fluxograma do Projeto
+## 📊 Fluxograma do Projeto
 
 ![fluxograma](image-2.png)
